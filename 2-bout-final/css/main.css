@@ -1,0 +1,30 @@
+body {
+      font-family: "Roboto", sans-serif;
+      margin-left: 4em;
+      margin-top: 2em;
+      background: linear-gradient(to right, #FF4A39 , #E1FF55);
+    }
+
+h1 {
+    text-shadow: -4px 4px #DE4BFF;
+    color: white;
+    align: center;
+  }
+
+  form {
+        width: 40%;
+        align: center;
+
+  }
+
+  fieldset {
+    background: white;
+    box-shadow: -10px 10px #DE4BFF;
+      border: solid 6px #42E88D;
+  }
+
+  fieldset h1 {
+    text-shadow: -4px 2px #E8AE42;
+    color: black;
+
+  }
